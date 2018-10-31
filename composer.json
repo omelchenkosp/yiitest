@@ -1,7 +1,8 @@
 {
     "require": {
         "yiisoft/yii2": "*",
-        "codeception/codeception": "*"
+        "codeception/codeception": "*",
+        "yiisoft/yii2-debug": "*"
     },
     "config": {
         "fxp-asset": {
